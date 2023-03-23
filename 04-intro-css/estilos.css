@@ -1,0 +1,14 @@
+.colores {
+    color: #3454d1;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_nnL6bn_lS2ajqDLHCZQwcIrCuuPrmIzI6w&usqp=CAU");
+    width: 100vh;
+    height: 70%;
+    background-position: botom botom;
+}

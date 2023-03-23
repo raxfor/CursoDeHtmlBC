@@ -1,0 +1,39 @@
+.input {
+    width: 100%;
+    padding: 5px 10px;
+    border: 2px solid #1bdf1b;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.input[type="password"] {
+    color: red;
+}
+
+.input-moderno {
+    border: none;
+    border-bottom: 1px solid #c9c5c5;
+    outline: none;
+    padding: 5px;
+    color: #5f5f5f;
+}
+
+.input-moderno:focus {
+    border-bottom: 1px solid #5f5f5f;
+}
+
+.input-background {
+    background-color: #70facc;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    outline: none;
+    color: white;
+    box-shadow: 0 0 10px #ccc;
+    margin-top: 2rem;
+}
+
+.input-background::placeholder {
+    color: #ccc;
+}
